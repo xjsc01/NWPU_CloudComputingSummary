@@ -1,4 +1,8 @@
 # [NWPU_CloudComputingSummary](https://github.com/xjsc01/NWPU_CloudComputingSummary)
+ [![license](https://img.shields.io/github/license/xjsc01/NWPU_CloudComputingSummary.svg)]()  <a href="https://github.com/xjsc01/NWPU_CloudComputingSummary/releases">
+    <img src="https://img.shields.io/github/v/release/xjsc01/NWPU_CloudComputingSummary?include_prereleases&style=flat-square" />
+</a>
+
 
 ## 版权声明
 
@@ -10,4 +14,3 @@
 > 由于github存在最大文件限制，故无法在源代码目录中添加文档，可选用的方式如下：
 
 1. 发布的文档见release模块
-2. 
